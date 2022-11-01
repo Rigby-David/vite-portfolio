@@ -8,6 +8,7 @@ function App() {
       <p>hello world</p>
       <p>hi there</p>
       <p>master</p>
+      <p>is master gone?</p>
     </div>
   )
 }
