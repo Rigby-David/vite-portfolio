@@ -7,6 +7,7 @@ function App() {
       
       <p>hello world</p>
       <p>hi there</p>
+      <p>master</p>
     </div>
   )
 }
